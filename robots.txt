@@ -1,0 +1,4 @@
+Sitemap: https://gonzolo.com/sitemapindex.xml
+
+User-Agent: *
+Host: gonzolo.com
